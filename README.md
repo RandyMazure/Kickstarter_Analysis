@@ -10,6 +10,8 @@
 
 ### Goals were sepearted into incremental values and were then analyzed based upon the percentage of successes, fails, and cancels within each of these increments.  A line chart was then created to reflect the findings of these campaigns.  
 
+### There were no challenges in processing the data.  Some potential issues could come in drawing conclusions across countries.  Different ethnic tastes could skew data if the customer were wanting global data.  
+
 ## Results
 
 
